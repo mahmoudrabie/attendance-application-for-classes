@@ -1,0 +1,1 @@
+In in this application by using the android face detector and just by taking a picture all the faces that are detected by your mobile camera should be checked right and they are should be present and if they are not they should become absent in the attendance sheet.
